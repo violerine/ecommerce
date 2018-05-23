@@ -1,5 +1,5 @@
 const Customer = require ('../models/customer')
-const bcrypt=require("bcrypt")
+const bcrypt=require("bcryptjs")
 const jwt = require ("jsonwebtoken")
 
 
